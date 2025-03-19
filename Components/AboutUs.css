@@ -1,0 +1,32 @@
+.about-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .about-container h2 {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .about-container p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .mission-section {
+    margin-top: 20px;
+  }
+  
+  .mission-section h3 {
+    color: #444;
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  
